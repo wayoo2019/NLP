@@ -1,0 +1,8 @@
+b ribbon
+b hair
+g hair
+g eye
+r lip
+b box
+w teeth
+g frog
